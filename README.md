@@ -1,5 +1,8 @@
-# Animator by Jakob Philippe and Steven Scangas
+https://github.com/jakobphilippe/animator
 
+# Animator by Steven Scangas and Jakob Philippe
+
+ 
 Running the Animator:
 
 Main class: Excellence
