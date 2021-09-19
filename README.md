@@ -1,4 +1,4 @@
-https://github.com/jakobphilippe/animator
+Link to collaborative repo: https://github.com/jakobphilippe/animator
 
 # Animator by Steven Scangas and Jakob Philippe
 
